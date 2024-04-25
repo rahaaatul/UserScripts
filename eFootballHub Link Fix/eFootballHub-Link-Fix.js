@@ -2,7 +2,7 @@
 // @name        eFootball Fix Links
 // @namespace    https://github.com/DaPotatoMan
 // @version      1.0
-// @description  Enables for you to copy the link or open links in new tab
+// @description  Enables you to open the search results in new tab or copy the links directly.
 // @author       DaPotatoMan
 // @match        https://www.efootballhub.net/*
 // @grant        GM_setClipboard
