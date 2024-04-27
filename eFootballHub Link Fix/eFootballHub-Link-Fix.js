@@ -4,7 +4,9 @@
 // @version      1.1
 // @description  Enables you to open the search results in new tab or copy the links directly.
 // @author       DaPotatoMan
+// @match        *://efootballhub.net
 // @match        *://efootballhub.net/*
+// @match        *://*.efootballhub.net/*
 // @grant        none
 // ==/UserScript==
 
