@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         eFootball Fix Links
-// @namespace    https://github.com/DaPotatoMan
-// @version      1.5
+// @namespace    https://github.com/rahaaatul/UserScripts
+// @supportURL   https://github.com/rahaaatul/UserScripts
+// @version      1.6
 // @description  Enables you to open the search results in new tab or copy the links directly.
 // @author       DaPotatoMan
 // @match        *://efootballhub.net/*
